@@ -1,0 +1,16 @@
+.Item-list {
+    padding: 10px;
+    border: 1px solid #CCCCCC;
+    border-radius: 6px;
+    background-color: #FFFFFF;
+    text-align: left;
+    margin-bottom: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    width: 100%;
+}
+
+.Item-list:hover {
+    background-color: #CCCCCC;
+}

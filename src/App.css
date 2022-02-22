@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.Loading {
+  text-align: center;
+}
+
+.Error {
+  text-align: center;
+}
+
+.App-pagination{
+  display: flex;
+  justify-content: space-between;
+}
+
